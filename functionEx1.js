@@ -11,7 +11,7 @@ function divide(a, b) {
     return a / b;
 }
 function dataMe(firstName, location, hobby) {
-    console.log("Hi, my name is " + firstName + "I live in " + location + " and enjoy " + hobby);
+    console.log("Hi, my name is " + firstName + " I live in " + location + " and enjoy " + hobby);
 }
 
 console.log(add(3, 5));
